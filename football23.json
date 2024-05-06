@@ -1,0 +1,153 @@
+{
+  "week1":{
+    "qb":[
+      {
+        "name": "Tua",
+        "points": 27.14
+      },
+      {
+        "name": "Mac Jones",
+        "points": 24.14
+      },
+      {
+        "name": "Jordan Love",
+        "points": 23
+      },
+      {
+        "name": "Anthony Richardson",
+        "points": 20.92
+      },
+      {
+        "name": "Justin Herbert",
+        "points": 20.86
+      },
+      {
+        "name": "Deshaun Watson",
+        "points": 20.66
+      },
+      {
+        "name": "Patrick Mahomes",
+        "points": 19.54
+      },
+      {
+        "name": "Trevor Lawrence",
+        "points": 17.74
+      },
+      {
+        "name": "Brock Purdy",
+        "points": 16.8
+      },
+      {
+        "name": "Kirk Cousins",
+        "points": 16.46
+      }
+      
+    ],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week2":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week3":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week4":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week5":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week6":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week7":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week8":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week9":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week10":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week11":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week12":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week13":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week14":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week15":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week16":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week17":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  },
+  "week18":{
+    "qb":[],
+    "rb":[],
+    "wr":[],
+    "te":[]
+  }
+  
+}
