@@ -43,9 +43,134 @@
       }
       
     ],
-    "rb":[],
-    "wr":[],
-    "te":[]
+    "rb":[
+      {
+        "name": "Aaron Jones",
+        "points": 25.7
+      },
+      {
+        "name": "CMC",
+        "points": 24.4
+      },
+      {
+        "name": "Ekeler",
+        "points": 24.4
+      },
+      {
+        "name": "Tyler Allgeier",
+        "points": 22.9
+      },
+      {
+        "name": "Tony Pollard",
+        "points": 21.2
+      },
+      {
+        "name": "ETN",
+        "points": 18.9
+      },
+      {
+        "name": "Kyren Williams",
+        "points": 17.4
+      },
+      {
+        "name": "Bijan",
+        "points": 17.3
+      },
+      {
+        "name": "Breece Hall",
+        "points": 15.2
+      },
+      {
+        "name": "Joshua Kelley",
+        "points": 15.1
+      }
+    ],
+    "wr":[
+      
+      {
+        "name": "Tyreek",
+        "points": 39
+      },
+      {
+        "name": "Brandon Aiyuk",
+        "points": 28.9
+      },
+      {
+        "name": "Jakobi Meyers",
+        "points": 24.6
+      },
+      {
+        "name": "Kendrick Bourne",
+        "points": 21.4
+      },
+      {
+        "name": "Stefon Diggs",
+        "points": 21.2
+      },
+      {
+        "name": "Calvin Ridley",
+        "points": 20.1
+      },
+      {
+        "name": "Michael Pittman",
+        "points": 19.7
+      },
+      {
+        "name": "Justin Jefferson",
+        "points": 19.5
+      },
+      {
+        "name": "Puka Nacua",
+        "points": 16.9
+      },
+      {
+        "name": "Romeo Doubs",
+        "points": 16.6
+      }
+    ],
+    "te":[
+      
+      {
+        "name": "Hunter Henry",
+        "points": 14.1
+      },
+      {
+        "name": "Hayden Hurst",
+        "points":12.6
+      },
+      {
+        "name": "Donald Parham",
+        "points":9.7
+      },
+      {
+        "name": "Blake Bell",
+        "points":8.2
+      },
+      {
+        "name": "Harrison Bryant",
+        "points":7.5
+      },
+      {
+        "name": "T.J. Hockenson",
+        "points":7.5
+      },
+      {
+        "name": "Evan Engram",
+        "points":7.4
+      },
+      {
+        "name": "Cole Kmet",
+        "points":6.9
+      },
+      {
+        "name": "Pat Freiermuth",
+        "points":6.8
+      },
+      {
+        "name": "Luke Musgrave",
+        "points":6.5
+      }
+    ]
   },
   "week2":{
     "qb":[],
