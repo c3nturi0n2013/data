@@ -3,172 +3,212 @@
     "qb":[
       {
         "name": "Tua",
-        "points": 27.14
+        "points": 27.14,
+        "opp":"LAC"
       },
       {
         "name": "Mac Jones",
-        "points": 24.14
+        "points": 24.14,
+        "opp":"PHI"
       },
       {
         "name": "Jordan Love",
-        "points": 23
+        "points": 23,
+        "opp":"CHI"
       },
       {
         "name": "Anthony Richardson",
-        "points": 20.92
+        "points": 20.92,
+        "opp":"JAX"
       },
       {
         "name": "Justin Herbert",
-        "points": 20.86
+        "points": 20.86,
+        "opp":"MIA"
       },
       {
         "name": "Deshaun Watson",
-        "points": 20.66
+        "points": 20.66,
+        "opp":"CIN"
       },
       {
         "name": "Patrick Mahomes",
-        "points": 19.54
+        "points": 19.54,
+        "opp":"DET"
       },
       {
         "name": "Trevor Lawrence",
-        "points": 17.74
+        "points": 17.74,
+        "opp":"IND"
       },
       {
         "name": "Brock Purdy",
-        "points": 16.8
+        "points": 16.8,
+        "opp":"PIT"
       },
       {
         "name": "Kirk Cousins",
-        "points": 16.46
+        "points": 16.46,
+        "opp":"TB"
       }
       
     ],
     "rb":[
       {
         "name": "Aaron Jones",
-        "points": 25.7
+        "points": 25.7,
+        "opp":"CHI"
       },
       {
         "name": "CMC",
-        "points": 24.4
+        "points": 24.4,
+        "opp":"PIT"
       },
       {
         "name": "Ekeler",
-        "points": 24.4
+        "points": 24.4,
+        "opp":"MIA"
       },
       {
         "name": "Tyler Allgeier",
-        "points": 22.9
+        "points": 22.9,
+        "opp":"CAR"
       },
       {
         "name": "Tony Pollard",
-        "points": 21.2
+        "points": 21.2,
+        "opp":"NYG"
       },
       {
         "name": "ETN",
-        "points": 18.9
+        "points": 18.9,
+        "opp":"IND"
       },
       {
         "name": "Kyren Williams",
-        "points": 17.4
+        "points": 17.4,
+        "opp":"SEA"
       },
       {
         "name": "Bijan",
-        "points": 17.3
+        "points": 17.3,
+        "opp":"CAR"
       },
       {
         "name": "Breece Hall",
-        "points": 15.2
+        "points": 15.2,
+        "opp":"BUF"
       },
       {
         "name": "Joshua Kelley",
-        "points": 15.1
+        "points": 15.1,
+        "opp":"MIA"
       }
     ],
     "wr":[
       
       {
         "name": "Tyreek",
-        "points": 39
+        "points": 39,
+        "opp":"LAC"
       },
       {
         "name": "Brandon Aiyuk",
-        "points": 28.9
+        "points": 28.9,
+        "opp":"PIT"
       },
       {
         "name": "Jakobi Meyers",
-        "points": 24.6
+        "points": 24.6,
+        "opp":"DEN"
       },
       {
         "name": "Kendrick Bourne",
-        "points": 21.4
+        "points": 21.4,
+        "opp":"PHI"
       },
       {
         "name": "Stefon Diggs",
-        "points": 21.2
+        "points": 21.2,
+        "opp":"NYJ"
       },
       {
         "name": "Calvin Ridley",
-        "points": 20.1
+        "points": 20.1,
+        "opp":"IND"
       },
       {
         "name": "Michael Pittman",
-        "points": 19.7
+        "points": 19.7,
+        "opp":"JAX"
       },
       {
         "name": "Justin Jefferson",
-        "points": 19.5
+        "points": 19.5,
+        "opp":"TB"
       },
       {
         "name": "Puka Nacua",
-        "points": 16.9
+        "points": 16.9,
+        "opp":"SEA"
       },
       {
         "name": "Romeo Doubs",
-        "points": 16.6
+        "points": 16.6,
+        "opp":"CHI"
       }
     ],
     "te":[
       
       {
         "name": "Hunter Henry",
-        "points": 14.1
+        "points": 14.1,
+        "opp": "PHI"
       },
       {
         "name": "Hayden Hurst",
-        "points":12.6
+        "points":12.6,
+        "opp": "ATL"
       },
       {
         "name": "Donald Parham",
-        "points":9.7
+        "points":9.7,
+        "opp": "MIA"
       },
       {
         "name": "Blake Bell",
-        "points":8.2
+        "points":8.2,
+        "opp": "DET"
       },
       {
         "name": "Harrison Bryant",
-        "points":7.5
+        "points":7.5,
+        "opp": "CIN"
       },
       {
         "name": "T.J. Hockenson",
-        "points":7.5
+        "points":7.5,
+        "opp":"TB"
       },
       {
         "name": "Evan Engram",
-        "points":7.4
+        "points":7.4,
+        "opp":"IND"
       },
       {
         "name": "Cole Kmet",
-        "points":6.9
+        "points":6.9,
+        "opp":"GB"
       },
       {
         "name": "Pat Freiermuth",
-        "points":6.8
+        "points":6.8,
+        "opp":"SF"
       },
       {
         "name": "Luke Musgrave",
-        "points":6.5
+        "points":6.5,
+        "opp":"CHI"
       }
     ]
   },
