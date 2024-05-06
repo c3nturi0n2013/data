@@ -2,426 +2,426 @@
   "week1":{
     "qb":[
       {
-        "name": "Tua",
-        "points": 27.14,
-        "opp":"LAC"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Mac Jones",
-        "points": 24.14,
-        "opp":"PHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Jordan Love",
-        "points": 23,
-        "opp":"CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Anthony Richardson",
-        "points": 20.92,
-        "opp":"JAX"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Justin Herbert",
-        "points": 20.86,
-        "opp":"MIA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Deshaun Watson",
-        "points": 20.66,
-        "opp":"CIN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Patrick Mahomes",
-        "points": 19.54,
-        "opp":"DET"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Trevor Lawrence",
-        "points": 17.74,
-        "opp":"IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Brock Purdy",
-        "points": 16.8,
-        "opp":"PIT"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Kirk Cousins",
-        "points": 16.46,
-        "opp":"TB"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
-      
     ],
     "rb":[
+      
       {
-        "name": "Aaron Jones",
-        "points": 25.7,
-        "opp":"CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "CMC",
-        "points": 24.4,
-        "opp":"PIT"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Ekeler",
-        "points": 24.4,
-        "opp":"MIA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Tyler Allgeier",
-        "points": 22.9,
-        "opp":"CAR"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Tony Pollard",
-        "points": 21.2,
-        "opp":"NYG"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "ETN",
-        "points": 18.9,
-        "opp":"IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Kyren Williams",
-        "points": 17.4,
-        "opp":"SEA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Bijan",
-        "points": 17.3,
-        "opp":"CAR"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Breece Hall",
-        "points": 15.2,
-        "opp":"BUF"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Joshua Kelley",
-        "points": 15.1,
-        "opp":"MIA"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ],
     "wr":[
       
       {
-        "name": "Tyreek",
-        "points": 39,
-        "opp":"LAC"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Brandon Aiyuk",
-        "points": 28.9,
-        "opp":"PIT"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Jakobi Meyers",
-        "points": 24.6,
-        "opp":"DEN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Kendrick Bourne",
-        "points": 21.4,
-        "opp":"PHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Stefon Diggs",
-        "points": 21.2,
-        "opp":"NYJ"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Calvin Ridley",
-        "points": 20.1,
-        "opp":"IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Michael Pittman",
-        "points": 19.7,
-        "opp":"JAX"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Justin Jefferson",
-        "points": 19.5,
-        "opp":"TB"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Puka Nacua",
-        "points": 16.9,
-        "opp":"SEA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Romeo Doubs",
-        "points": 16.6,
-        "opp":"CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ],
     "te":[
       
       {
-        "name": "Hunter Henry",
-        "points": 14.1,
-        "opp": "PHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Hayden Hurst",
-        "points":12.6,
-        "opp": "ATL"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Donald Parham",
-        "points":9.7,
-        "opp": "MIA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Blake Bell",
-        "points":8.2,
-        "opp": "DET"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Harrison Bryant",
-        "points":7.5,
-        "opp": "CIN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "T.J. Hockenson",
-        "points":7.5,
-        "opp":"TB"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Evan Engram",
-        "points":7.4,
-        "opp":"IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Cole Kmet",
-        "points":6.9,
-        "opp":"GB"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Pat Freiermuth",
-        "points":6.8,
-        "opp":"SF"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Luke Musgrave",
-        "points":6.5,
-        "opp":"CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ]
   },
   "week2":{
     "qb":[
       {
-        "name": "Daniel Jones",
-        "points": "30.74",
-        "opp": "AZ"
-      },
-      {
-        "name": "Kirk Cousins",
-        "points": "28.56",
-        "opp": "PHI"
-      },
-      {
-        "name": "Russell Wilson",
-        "points": "25.92",
-        "opp": "WAS"
-      },
-      {
-        "name": "Jalen Hurts",
-        "points": "25.22",
-        "opp": "MIN"
-      },
-      {
-        "name": "Joshua Dobbs",
-        "points": "25.22",
-        "opp": "NYG"
-      },
-      {
-        "name": "Josh Allen",
-        "points": "23.66",
-        "opp": "LV"
-      },
-      {
-        "name": "Geno Smith",
-        "points": "23.12",
-        "opp": "DET"
-      },
-      {
-        "name": "Jared Goff",
-        "points": "22.92",
-        "opp": "SEA"
-      },
-      {
-        "name": "Lamar Jackson",
-        "points": "22.88",
+        "name": "",
+        "points": "",
         "opp": ""
       },
       {
-        "name": "Justin Herbert",
-        "points": "22.2",
-        "opp": "TEN"
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ],
     "rb":[
       
       {
-        "name": "Brian Robinson",
-        "points": "27.9",
-        "opp": "DEN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "D'Andre Swift",
-        "points": "25.6",
-        "opp": "MIN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Raheem Mostert",
-        "points": "25.2",
-        "opp": "NE"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Kyren Williams",
-        "points": "25",
-        "opp": "SF"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Saquon Barkley",
-        "points": "24.2",
-        "opp": "AZ"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Jerome Ford",
-        "points": "22.6",
-        "opp": "PIT"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "CMC",
-        "points": "21",
-        "opp": "LAR"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Bijan",
-        "points": "19.2",
-        "opp": "GB"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Rachaad White",
-        "points": "18.8",
-        "opp": "CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Zack Moss",
-        "points": "18.7",
-        "opp": "IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ],
     "wr":[
       
       {
-        "name": "Keenan Allen",
-        "points": "27.1",
-        "opp": "TEN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Mike Evans",
-        "points": "26.1",
-        "opp": "CHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Tee Higgins",
-        "points": "24.9",
-        "opp": "BAL"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Nico Collins",
-        "points": "24.1",
-        "opp": "IND"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Puka Nacua",
-        "points": "22.6",
-        "opp": "SF"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Tyler Lockett",
-        "points": "21.9",
-        "opp": "DET"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "DeVonta Smith",
-        "points": "21.1",
-        "opp": "MIN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Josh Reynolds",
-        "points": "21.1",
-        "opp": "SEA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "George Pickens",
-        "points": "20.7",
-        "opp": "CLE"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "CeeDee Lamb",
-        "points": "19.8",
-        "opp": "NYJ"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ],
     "te":[
       
       {
-        "name": "T.J. Hockenson",
-        "points": "22.1",
-        "opp": "PHI"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Hunter Henry",
-        "points": "14.2",
-        "opp": "MIA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Mark Andrews",
-        "points": "14.2",
-        "opp": "CIN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Travis Kelce",
-        "points": "10.6",
-        "opp": "JAX"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Darren Waller",
-        "points": "10.6",
-        "opp": "AZ"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Logan Thomas",
-        "points": "9.2",
-        "opp": "DEN"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Kylen Granson",
-        "points": "9.1",
-        "opp": "HOU"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Sam LaPorta",
-        "points": "8.8",
-        "opp": "SEA"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Evan Engram",
-        "points": "8.7",
-        "opp": "KC"
+        "name": "",
+        "points": "",
+        "opp": ""
       },
       {
-        "name": "Jake Ferguson",
-        "points": "8.6",
-        "opp": "NYJ"
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ]
   },
@@ -3833,5 +3833,4 @@
       }
     ]
   }
-  
 }
