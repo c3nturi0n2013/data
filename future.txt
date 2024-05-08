@@ -3407,3 +3407,7 @@
       }
     ]
   }
+
+  btcmonth csv: 2010-2024:may is from investanswers
+  starting in june i'm going to record 1st of month & end of month.
+  (end_month - start_month)/start_month x 100 = return for the month
