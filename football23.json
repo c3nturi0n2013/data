@@ -3,12 +3,12 @@
     "qb":[
       {
         "name": "Tua",
-        "points": 27.14,
+        "points": 28.14,
         "opp":"LAC"
       },
       {
         "name": "Mac Jones",
-        "points": 24.14,
+        "points": 25.14,
         "opp":"PHI"
       },
       {
@@ -18,8 +18,13 @@
       },
       {
         "name": "Anthony Richardson",
-        "points": 20.92,
+        "points": 21.92,
         "opp":"JAX"
+      },
+      {
+        "name": "Deshaun Watson",
+        "points": 21.66,
+        "opp":"CIN"
       },
       {
         "name": "Justin Herbert",
@@ -27,30 +32,25 @@
         "opp":"MIA"
       },
       {
-        "name": "Deshaun Watson",
-        "points": 20.66,
-        "opp":"CIN"
-      },
-      {
         "name": "Patrick Mahomes",
-        "points": 19.54,
+        "points": 20.54,
         "opp":"DET"
       },
       {
         "name": "Trevor Lawrence",
-        "points": 17.74,
+        "points": 18.74,
         "opp":"IND"
+      },{
+        "name": "Kirk Cousins",
+        "points": 17.46,
+        "opp":"TB"
       },
       {
         "name": "Brock Purdy",
         "points": 16.8,
         "opp":"PIT"
-      },
-      {
-        "name": "Kirk Cousins",
-        "points": 16.46,
-        "opp":"TB"
       }
+      
       
     ],
     "rb":[
@@ -216,105 +216,107 @@
     "qb":[
       {
         "name": "Daniel Jones",
-        "points": "30.74",
+        "points": 31.74,
         "opp": "AZ"
       },
       {
         "name": "Kirk Cousins",
-        "points": "28.56",
+        "points": 28.56,
         "opp": "PHI"
       },
       {
         "name": "Russell Wilson",
-        "points": "25.92",
+        "points": 26.92,
         "opp": "WAS"
       },
       {
         "name": "Jalen Hurts",
-        "points": "25.22",
+        "points": 26.22,
         "opp": "MIN"
       },
       {
         "name": "Joshua Dobbs",
-        "points": "25.22",
+        "points": 25.22,
         "opp": "NYG"
       },
       {
-        "name": "Josh Allen",
-        "points": "23.66",
-        "opp": "LV"
-      },
-      {
-        "name": "Geno Smith",
-        "points": "23.12",
-        "opp": "DET"
-      },
-      {
         "name": "Jared Goff",
-        "points": "22.92",
+        "points": 23.92,
         "opp": "SEA"
       },
       {
+        "name": "Josh Allen",
+        "points": 23.66,
+        "opp": "LV"
+      },
+      
+      {
+        "name": "Geno Smith",
+        "points": 23.12,
+        "opp": "DET"
+      },
+      
+      {
         "name": "Lamar Jackson",
-        "points": "22.88",
+        "points": 22.88,
         "opp": ""
       },
       {
-        "name": "Justin Herbert",
-        "points": "22.2",
-        "opp": "TEN"
+        "name": "Desmond Ridder",
+        "points": 22.38,
+        "opp": "GB"
       }
     ],
     "rb":[
       
       {
         "name": "Brian Robinson",
-        "points": "27.9",
+        "points": 27.9,
         "opp": "DEN"
       },
       {
         "name": "D'Andre Swift",
-        "points": "25.6",
+        "points": 25.6,
         "opp": "MIN"
       },
       {
         "name": "Raheem Mostert",
-        "points": "25.2",
+        "points": 25.2,
         "opp": "NE"
       },
       {
         "name": "Kyren Williams",
-        "points": "25",
+        "points": 25,
         "opp": "SF"
       },
       {
         "name": "Saquon Barkley",
-        "points": "24.2",
+        "points": 24.2,
         "opp": "AZ"
       },
       {
         "name": "Jerome Ford",
-        "points": "22.6",
+        "points": 22.6,
         "opp": "PIT"
       },
       {
         "name": "CMC",
-        "points": "21",
+        "points": 21,
         "opp": "LAR"
       },
       {
         "name": "Bijan",
-        "points": "19.2",
+        "points": 19.2,
         "opp": "GB"
       },
       {
         "name": "Rachaad White",
-        "points": "18.8",
+        "points": 18.8,
         "opp": "CHI"
       },
       {
         "name": "Zack Moss",
-        "points": "18.7",
+        "points": 18.7,
         "opp": "IND"
       }
     ],
@@ -322,47 +324,47 @@
       
       {
         "name": "Keenan Allen",
-        "points": "27.1",
+        "points": 27.1,
         "opp": "TEN"
       },
       {
         "name": "Mike Evans",
-        "points": "26.1",
+        "points": 26.1,
         "opp": "CHI"
       },
       {
         "name": "Tee Higgins",
-        "points": "24.9",
+        "points": 24.9,
         "opp": "BAL"
       },
       {
         "name": "Nico Collins",
-        "points": "24.1",
+        "points": 24.1,
         "opp": "IND"
       },
       {
         "name": "Puka Nacua",
-        "points": "22.6",
+        "points": 22.6,
         "opp": "SF"
       },
       {
         "name": "Tyler Lockett",
-        "points": "21.9",
+        "points": 21.9,
         "opp": "DET"
       },
       {
         "name": "DeVonta Smith",
-        "points": "21.1",
+        "points": 21.1,
         "opp": "MIN"
       },
       {
         "name": "Josh Reynolds",
-        "points": "21.1",
+        "points": 21.1,
         "opp": "SEA"
       },
       {
         "name": "George Pickens",
-        "points": "20.7",
+        "points": 20.7,
         "opp": "CLE"
       },
       {
@@ -422,6 +424,432 @@
         "name": "Jake Ferguson",
         "points": "8.6",
         "opp": "NYJ"
+      }
+    ]
+  },
+  "week 3":{
+    "qb":[
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "rb":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "wr":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "te":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ]
+  },
+  "week 4":{
+    "qb":[
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "rb":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "wr":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      }
+    ],
+    "te":[
+      
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
+      },
+      {
+        "name": "",
+        "points": "",
+        "opp": ""
       }
     ]
   }
