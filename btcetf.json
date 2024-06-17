@@ -1,18 +1,18 @@
 {
     "IBIT": {
         "country": "\ud83c\uddfa\ud83c\uddf8",
-        "price": "38.28",
+        "price": "37.18",
         "amt": 274322
     },
     "GBTC": {
         "country": "\ud83c\uddfa\ud83c\uddf8",
-        "price": "59.71",
+        "price": "58.03",
         "amt": 292268
     },
     "FBTC": {
         "name": "Fidelity Wise Origin Bitcoin Fund",
         "country": "\ud83c\uddfa\ud83c\uddf8",
-        "price": "58.74",
+        "price": "57.09",
         "amt": 152880
     }
 }
