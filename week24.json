@@ -1,26 +1,26 @@
 [
   
   {
-    "title": "TE",
+    "title": "Week 5",
     "url": "https://pdfbucketjj.s3.us-east-2.amazonaws.com/te23heat.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATCKANZBTRNRO6YFV%2F20240706%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240706T133010Z&X-Amz-Expires=604800&X-Amz-Signature=a2defa6408637c04688a6c8b8aa78a7681d900921a0b93a775fcfdeaf1c3cb4d&X-Amz-SignedHeaders=host",
     "duration":"7 days"
   },
   {
-    "title": "WR",
+    "title": "Week 4",
     "url": "https://pdfbucketjj.s3.us-east-2.amazonaws.com/wr23heat.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATCKANZBTRNRO6YFV%2F20240706%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240706T130246Z&X-Amz-Expires=604800&X-Amz-Signature=b0060e2b5f4a42b5118ea5c47ff9e5e019877209527853d3896d1e4ef953a467&X-Amz-SignedHeaders=host"
   },
   {
-    "title": "RB",
+    "title": "Week 3",
     "url": "https://pdfbucketjj.s3.us-east-2.amazonaws.com/rb23heat.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATCKANZBTRNRO6YFV%2F20240706%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240706T130148Z&X-Amz-Expires=604800&X-Amz-Signature=685943a85ef525aac100ce746f1a266bb5131ee1c5ef0a82411743a0df5f0817&X-Amz-SignedHeaders=host",
     "duration":"7 days"
   },
   {
-    "title": "QB",
+    "title": "Week 2",
     "url": "https://pdfbucketjj.s3.us-east-2.amazonaws.com/qb23heat.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATCKANZBTRNRO6YFV%2F20240706%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240706T123530Z&X-Amz-Expires=604800&X-Amz-Signature=790c6fa304193648af03be9845407f1ad815558d7f5bb3bb7fe20b3e687e5cbb&X-Amz-SignedHeaders=host",
     "duration": "7 days"
   },
   {
-    "title": "hello",
+    "title": "Week 1",
     "url": "www.example.com",
     "duratio": "none"
   }
